@@ -196,3 +196,10 @@ body {
 .picture{
   max-width: 100%;
 }
+
+.music {
+  position: absolute;
+  top: 70%;
+  left: 30px;
+}
+
