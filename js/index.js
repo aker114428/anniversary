@@ -29,7 +29,7 @@ $(document).ready(function()
 		$('.text').addClass('hide');
 		$('#fullpage').fullpage(
 			{
-				sectionsColor: ['#ee9ca7', '#ee9ca7', '#93d5dc', '#ffcc66', '#83cbac','#f9cb8b', '#66cccc', '#ffb3a7','#44cef6'],
+				sectionsColor: [ '#ee9ca7', '#93d5dc', '#ffcc66', '#83cbac','#f9cb8b', '#66cccc', '#ffb3a7','#44cef6'],
 				navigation: true,
 				//增加回调函数，文字动画
 				afterLoad: function(anchorLink, index)
